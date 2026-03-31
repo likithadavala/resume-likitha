@@ -1,0 +1,37 @@
+body {
+    color: rgb(24, 23, 23);
+    background-color: rgb(252, 248, 248);
+}
+
+.scareer {
+
+    color: rgb(10, 10, 49);
+}
+
+.seducation {
+    color: rgb(13, 14, 13);
+}
+
+.scertificate {
+    color: rgb(14, 13, 13);
+}
+
+.sproject {
+    color: rgb(7, 7, 7);
+}
+
+.sdiv {
+    border: coral;
+    border-style: solid;
+    padding-top: 17px;
+    padding-left: 17px;
+    padding-right: 17px;
+    padding-bottom: 17px;
+    border-width: 10px;
+    margin-right: 1800px;
+   background-color: rgb(186, 173, 214);
+}
+.shead{
+    color: rgb(12, 12, 12);
+    text-align: center;
+}
